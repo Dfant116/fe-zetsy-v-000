@@ -24,6 +24,6 @@ body {
 	src: url(../fonts/Baskerville.ttc);
 }
 
-#zetsy {
-	font-family: fonts/baskerville.ttc, serif
+h1 {
+	font-family: 'Baskerville', serif
 }
