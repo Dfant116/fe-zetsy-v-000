@@ -19,6 +19,11 @@ body {
 
 /* Write all remaining styles here */
 
+@@font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
+}
+
 #zetsy {
 	font-family: fonts/baskerville.ttc, serif 
 }
