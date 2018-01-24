@@ -20,5 +20,5 @@ body {
 /* Write all remaining styles here */
 
 #zetsy {
-	font: fonts/baskerville.ttc
+	font-family: fonts/baskerville.ttc, serif 
 }
